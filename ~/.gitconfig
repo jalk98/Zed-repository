@@ -1,0 +1,10 @@
+[user]
+    name = Jordan Alker
+    email = jalkersoft@gmail.com
+
+[core]
+    autocrlf = false
+    excludesfile = C:\\Users\\jorda_x7ukovf\\Documents\\.gitignore_global
+
+[credential]
+    helper = store
